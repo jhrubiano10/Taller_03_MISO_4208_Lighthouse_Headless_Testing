@@ -8,7 +8,7 @@ carpeta [llamada_api]
 ## Adición del código.
 
 En el archivo [app.js] en la método ```app.getSchedule``` se establecido la variable ```loadApiTime``` que almacena el valor de la propiedad 
-```window.cardLoadTime```
+```performance.now()```
 
 ## Resultado de la prueba.
 
