@@ -1,4 +1,4 @@
-# Taller 03 MISO 4208 Lighthouse_Headless_Testing
+# Taller 03 MISO 4208 Lighthouse Headless Testing
 
 Enlace del taller: https://miso-4208-labs.gitlab.io/talleres/taller3.html
 
